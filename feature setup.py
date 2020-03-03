@@ -19,7 +19,7 @@ fights.isnull().values.ravel().sum()  # gives 6646
 # ['Outcome', 'Fighter', 'Fightee', 'Str', 'TD', 'Sub', 'Pass', 'Str2','TD2', 'Sub2', 'Pass2', 'Name', 'Date', 'Method', 'Misc', 'Rounds','Time']
 
 ###TODO###TODO###TODO###TODO###TODO###TODO###TODO###TODO###TODO###TODO###TODO###TODO###TODO###TODO
-###TODO: Grabe Unique fighterID as url on UFCstats
+###TODO: Grab Unique fighterID as url on UFCstats
 ###TODO: Functionalize the steps below for either fighter or fights to make it easier next time
 ###TODO: Change incorrect column names in scrape earlier
 ###TODO: Next iteration, add in rolling SLpM, etc instead of fixed values
